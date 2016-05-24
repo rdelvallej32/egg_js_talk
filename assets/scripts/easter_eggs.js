@@ -6,9 +6,7 @@ const addHandlers = function() {
   ///hotline bling gif
   egg.addCode("h,o,t,l,i,n,e,b,l,i,n,g", function() {
     console.log('test');
-    $('#egggif').fadeIn(500, function() {
-        window.setTimeout(function() { $('#egggif').hide(); }, 4000);
-  });
+    $('.musicVid').append("<iframe class='popUp' width='560' height='315' src='https://www.youtube.com/embed/uxpDa-c-4Mc?autoplay=1&start=20' frameborder='0' allowfullscreen autoplay></iframe>");
 
   }).listen();
 
