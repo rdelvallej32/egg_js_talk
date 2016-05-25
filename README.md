@@ -3,6 +3,9 @@
 Easter eggs are fun, and I want to show you how to use
 Egg.js' simple JS library on how to add web easter eggs by watching the user's keystrokes.
 
+Link: 
+[Egg.js](http://thatmikeflynn.com/egg.js/)
+
 ## Objectves
 
 By the end of this, developers should be able to:
