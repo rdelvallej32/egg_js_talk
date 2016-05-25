@@ -10,4 +10,5 @@ const eventHandlers = require('./easter_eggs.js');
 
 $(() => {
   eventHandlers.addHandlers();
+  $('.easterEgg').hide();
 });

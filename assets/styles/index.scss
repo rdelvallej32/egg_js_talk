@@ -1,6 +1,16 @@
 $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
 @import '~bootstrap-sass/assets/stylesheets/bootstrap';
 
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+p {
+  margin: 40px;
+  font-size: 15px;
+}
+
 #egggif {
   display: none;
 }
